@@ -3,3 +3,8 @@ numpy
 pandas
 pydeck
 streamlit
+matplotlib
+plotly
+datetime
+yfinance
+streamlit-antd-components
